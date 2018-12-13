@@ -1,7 +1,7 @@
 
 [Tamtam Tours](https://tamtam-tours-1509712686186.firebaseapp.com)
 
-A E-commerce CMS system design to book hotels, cars, and leisure activities.
+An E-commerce CMS system design to book hotels, cars, and leisure activities.
 React - Redux - RESTFUL API - Mobile App - Booking - E-commerce Etc.
 
 [Passport-Mauritius](https://picadc-406ef.firebaseapp.com/)
