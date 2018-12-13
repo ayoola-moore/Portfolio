@@ -9,7 +9,7 @@ React - Redux - RESTFUL API - Mobile App - Booking - E-commerce Etc.
 An E-commerce CMS  design to book leisure activities 
 React - Redux - GraphQL - Firebase - E-commerce Etc.
 
-Others Links
+**Others Links**
 
 [Picadc](https://picadc-406ef.firebaseapp.com/)
 
