@@ -4,13 +4,12 @@
 An E-commerce CMS system design to book hotels, cars, and leisure activities.
 React - Redux - RESTFUL API - Mobile App - Booking - E-commerce Etc.
 
-[Passport-Mauritius](https://passport-mauritius-8f8a8.firebaseapp.com/)
-
-An E-commerce CMS  design to book leisure activities 
-React - Redux - GraphQL - Firebase - E-commerce Etc.
-
-**Others Links**
-
 [Picadc](https://picadc-406ef.firebaseapp.com/)
 
+Chauffeur request application.
+
 [Overjinc](http://www.overjinc.com/)
+
+Website and management portal.
+
+[Other Contributions](https://github.com/ayoola-moore)
