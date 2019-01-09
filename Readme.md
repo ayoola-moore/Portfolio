@@ -4,12 +4,12 @@
 An E-commerce CMS system design to book hotels, cars, and leisure activities.
 React - Redux - RESTFUL API - Mobile App - Booking - E-commerce Etc.
 
-[Picadc](https://picadc-406ef.firebaseapp.com/?target="_blank")
+[Picadc](https://picadc-406ef.firebaseapp.com/)
 
 Chauffeur request application.
 
-[Overjinc](http://www.overjinc.com/ target="_blank")
+[Overjinc](http://www.overjinc.com/)
 
 Website and management portal.
 
-[Other Contributions](https://github.com/ayoola-moore "title" target="_blank")
+[Other Contributions](https://github.com/ayoola-moore)
